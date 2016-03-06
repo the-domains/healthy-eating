@@ -1,0 +1,28 @@
+name: healthy-eating
+favicon: null
+layout_spectrum: 0.7039659372530878
+typography_spectrum: 0.6779982114676386
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.1765160842332989
+  lightness: 0.6233799231704324
+  saturation: 0.8400623227935284
+  rhythmicContrast: 0.5421861938666552
+purpose: []
