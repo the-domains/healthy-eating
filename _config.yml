@@ -1,6 +1,6 @@
 name: healthy-eating
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.99905
 typography_spectrum: 0.51824
 title: eat healthy live longer
 cta:
@@ -22,8 +22,8 @@ color:
     - '#ba0000'
     - '#fe3939'
     - '#fe8484'
-  brandStrength: 0.0625
+  brandStrength: 0
   lightness: 0.9375
-  saturation: 0.0625
+  saturation: 0.5
   rhythmicContrast: 0.25
 purpose: []
