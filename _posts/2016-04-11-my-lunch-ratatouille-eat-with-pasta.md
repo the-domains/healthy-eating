@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'My lunch, ratatouille, eat with pasta.'
-datePublished: '2016-04-11T09:39:26.721Z'
-dateModified: '2016-04-11T09:29:10.665Z'
+datePublished: '2016-04-11T14:49:56.100Z'
+dateModified: '2016-04-11T14:49:33.094Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-11-my-lunch-ratatouille-eat-with-pasta.md
