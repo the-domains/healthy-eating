@@ -1,23 +1,19 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: "Welcome to Keiko's kitchen!"
-datePublished: '2016-04-11T13:52:14.069Z'
-dateModified: '2016-04-11T13:52:02.523Z'
-title: "Healthy Living - Keiko's kitchen from Japan"
-author: []
+datePublished: '2016-08-28T09:12:28.798Z'
 sourcePath: _posts/2016-03-06-healthy-living-keikos-kitchen-from-japan.md
-published: true
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-08-28T09:12:28.216Z'
+title: ''
+publisher: {}
+description: Welcome to Keiko's kitchen!
+inLanguage: null
+inNav: false
+via: {}
+starred: false
 url: healthy-living-keikos-kitchen-from-japan/index.html
 _type: Article
 
